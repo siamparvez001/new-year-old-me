@@ -9,7 +9,7 @@
     padding-bottom: 70px;
 }
 #contain{
-    background-image: url(/images/light.jpeg);
+    background-image: url(./images/light.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -127,7 +127,7 @@
     
     margin: 50px 200px;
     border-radius: 10px;
-    background-image: linear-gradient(90deg,rgba(234, 129, 16, 0.931)10%  , rgba(250, 250, 250, 0.5) ) , url(/images/background2.jpeg);
+    background-image: linear-gradient(90deg,rgba(234, 129, 16, 0.931)10%  , rgba(250, 250, 250, 0.5) ) , url(./images/background2.jpeg);
     padding: 40px 50px;
     background-repeat: no-repeat;
     background-size: contain;
