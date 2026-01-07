@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#contain{
+     width: 100%;
+    max-width: 1600px;
+}
+#contain{
+    background-image: url(/images/light.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+#contain .main{
+    
+}
+#contain .text-container {
+    text-align: right;
+    margin-left: 980px;
+    padding-top: 120px;
+    padding-right: 150px;
+
+}
+#contain .text-container h2 {
+    font-size: 35px;
+    padding-bottom: 10px ;
+    font-weight: bold;
+}
+#contain .text-container p {
+    line-height: 26px;
+    color: #444343;
+    padding-bottom: 10px;
+}
+#contain .text-container .btn{
+    background-color: #F15B22;
+    padding: 15px 25px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
